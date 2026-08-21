@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aether Notifications</title>
+    <link>https://aether.mom</link>
+    <description>Site updates and important notifications for Aether users</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 Nov 2025 12:00:00 GMT</lastBuildDate>
+    <atom:link href="https://aether.mom/notifications.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <guid>notification-007</guid>
+      <title>Aether v1.2.0 released!</title>
+      <description>Three major new features have been added to enhance your viewing experience:
+
+- Added AI Chat Assistant - Click the chat icon in the bottom-right corner to get personalized movie and TV show recommendations. Ask questions about what to watch and get instant suggestions powered by AI!
+- Added Skip Intro Detection - Automatically detects and lets you skip opening credits and intros with a single click.
+- Added Mini Pop-Out Player - Continue watching in a small floating window while you browse for other content. Perfect for multitasking!
+
+Enjoy the new features!</description>
+      <pubDate>Mon, 04 Nov 2025 12:00:00 GMT</pubDate>
+      <category>update</category>
+    </item>
+
+    <item>
+      <guid>notification-006</guid>
+      <title>New Feature: Ads to Support the Project</title>
+      <description>We've added advertisements to help support and maintain Aether!
+
+Ads are now enabled by default, but you have full control - you can toggle them off anytime in Settings if you prefer an ad-free experience.
+
+To disable ads, simply go to Settings → Advertisements and toggle them off. Your preference will be saved.
+
+Thank you for supporting Aether and being part of our community!</description>
+      <pubDate>Mon, 30 Oct 2025 12:00:00 MST</pubDate>
+      <category>announcement</category>
+    </item>
+
+        <item>
+      <guid>notification-005</guid>
+      <title>Aether v1.1.1 released!</title>
+      <description>Lots of great changes and improvements this time!
+
+- Added collection feature to the details modal (thanks @doug for the original idea)
+- Always show the time when hovering over progress bar instead of only with thumbnails
+- Added keyboard shortcut help menu (hold ` to show keyboard shortcuts)
+- Added the ability to press 0-9 to skip to 0-90% progress
+- Added new “Border” captions style with adjustable thickness
+- Low Peformance mode now disables Flare effects
+- Updated webkit interface to fix some Airplay issues (not fully working yet, help needed!)
+- Fixed subtitles freezing when scrubbing
+- Fixed embed order setting not saving correctly
+- Fixed playback settings menu on the player not saving or appying immedietly
+- Fixed Airplay button not appearing on some screen sizes
+- Fixed progress saving and showing values larger than 100%
+- Various other bug fixes and improvements
+      </description>
+      <pubDate>Tue, 29 Oct 2025 15:00:00 MST</pubDate>
+      <category>update</category>
+    </item>
+
+        <item>
+      <guid>notification-004</guid>
+      <title>Aether v1.1.0 released!</title>
+      <description>Lots of great bug fixes this time around and a couple quality of life improvements!
+
+- Fixed watch progress getting reset when switching sources.
+- Added the ability to disable specific sources and embeds.
+- Added a search bar to the settings page.
+- Fixed jitter when scrolling through the discover and movie list pages.
+- Disabled the context menu on the player page.
+- Improved site performance by caching all TMDB responses and updating skeleton media cards.
+- More minor bugs squashed!
+
+</description>
+      <pubDate>Mon, 21 Oct 2025 16:30:00 MST</pubDate>
+      <category>update</category>
+    </item>
+
+        <item>
+      <guid>notification-003</guid>
+      <title>Manual Source Selection!</title>
+      <description>I know many sources have been inconsistent recently, so to help with the trouble, we're introducing a new manual source selection setting! 
+      
+      This setting disables the automatic scraping process and requires manual selection before scraping. 
+      
+      You can find it settings, preferences. Hope it helps!
+
+      Also some bug fixes so it counts as a new version: v1.0.2!</description>
+      <pubDate>Fri, 10 Oct 2025 19:00:00 MST</pubDate>
+      <category>feature</category>
+    </item>
+
+        <item>
+      <guid>notification-002</guid>
+      <title>Aether v1.0.1 released!</title>
+      <description>New features and improvements in this update:
+
+- Added favorite episodes! Every episode now has a bookmark icon that can be toggled to sort your episodes into a new Favorites section! It's like a special season of just your picks!
+- Watching and bookmark sections can be reordered - You can drag and drop sort the watching section to be under your bookmarks. (Groups can be reordered from the home page)
+- Added small skip episode button to player - Quickly skip to the next episode without opening the episode menu
+- Close any modal with ESC key
+- Added "Autumn" theme
+- Added double tab to seek feature, toggle in the settings
+
+Enjoy the new features!</description>
+      <pubDate>Mon, 29 Sep 2025 18:00:00 MST</pubDate>
+      <category>update</category>
+    </item>
+
+    <item>
+      <guid>notification-001</guid>
+      <title>Aether v1.0.0 released!</title>
+      <description>Minor updates to fix bugs and add some QoL features.
+
+- Now anyone can watch trailers on the details modal! A custom proxy or the extension no longer required. (Other IMDb info still requires the extension or proxy)
+- Added a resume watching page.
+- Added checks and label to see what embed a source is currently on. (e.x. fox for xprime)
+- Updated curated movie lists and editor picks!
+- Added an onboarding reminder for content that is not found but there are other sources that may have it.
+- Using a custom subtitle source with no baked in ads.
+- Fixed a broken URL issue caused by the Dood source.
+- Fixed 2x boost overlay sizing.
+- Fixed speed boost not working on mobile.
+- Other bug fixes!
+      </description>
+      <pubDate>Sun, 24 Aug 2025 22:37:00 MST</pubDate>
+      <category>update</category>
+    </item>
+
+  </channel>
+</rss> 
