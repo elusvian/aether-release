@@ -17,7 +17,7 @@ Tired of manually adjusting the subtitle delay every episode — or worse, when 
 
 - Enable it once in the player under Subtitles → Customize → "Auto-sync with audio"
 - Works while you watch — no uploading, no waiting, nothing to configure
-- Detects offsets up to 15 seconds and keeps re-checking, so drift that changes mid-episode gets corrected too
+- Handles offsets of any size — small drifts lock in seconds, while big mismatches (30s, 60s, even more) are found by a wide-range search that needs a little more listening time
 - Your manual [ and ] adjustments always take priority, and the sync never fights you
 
 **Note: this feature is experimental.** It needs clear dialogue to work well and may struggle with music-heavy scenes — if it misbehaves, just toggle it off.
