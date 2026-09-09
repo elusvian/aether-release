@@ -5,8 +5,30 @@
     <link>https://aether.mom</link>
     <description>Site updates and important notifications for Aether users</description>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Aug 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 12:00:00 GMT</lastBuildDate>
     <atom:link href="https://aether.mom/notifications.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <guid>notification-009</guid>
+      <title>New Integrations: Simkl Sync &amp; Letterboxd Import!</title>
+      <description>We've added two highly requested integrations to make tracking your media and migrating your watchlists easier than ever!
+
+✨ Simkl Integration (Full Sync)
+Keep your watch history and bookmarks synced with Simkl:
+- Connect your Simkl account in Settings → Connections.
+- Automatically sync your bookmarks with your Simkl "Plan to Watch" list.
+- Automatically sync movies and TV show episodes as you watch them, so your progress is always backed up.
+
+📥 Letterboxd Watchlist Import
+Migrate your Letterboxd watchlist straight into Aether bookmarks in seconds:
+- Go to Settings → Import.
+- Upload your watchlist.csv export from Letterboxd (Settings → Data → Export your data).
+- Aether will automatically match each film on TMDB and add it directly to your bookmarks with full metadata and posters!
+
+Head over to Settings to try them out!</description>
+      <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
+      <category>feature</category>
+    </item>
 
     <item>
       <guid>notification-008</guid>

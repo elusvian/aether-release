@@ -16,5 +16,9 @@ window.__CONFIG__ = {
   VITE_BACKEND_URL: null,
 
   // A comma separated list of disallowed IDs in the case of a DMCA claim - in the format "series-<id>" and "movie-<id>"
-  VITE_DISALLOWED_IDS: ""
+  VITE_DISALLOWED_IDS: "",
+
+  // Simkl API credentials (optional, can also be baked via build env)
+  VITE_SIMKL_CLIENT_ID: "",
+  VITE_SIMKL_CLIENT_SECRET: ""
 };
