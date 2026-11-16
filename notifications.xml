@@ -5,8 +5,26 @@
     <link>https://aether.mom</link>
     <description>Site updates and important notifications for Aether users</description>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Sep 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 15:45:00 GMT</lastBuildDate>
     <atom:link href="https://aether.mom/notifications.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <guid>notification-010</guid>
+      <title>🚀 IT’S TIME TO SPREAD THE WORD! 🚀</title>
+      <link>https://discord.com/channels/1353761264345546974/1571913228991332452</link>
+      <description>We’re on a mission to grow Aether and get it in front of as many people as possible—and we need your help!
+
+If you want to support us, we’re asking everyone to help promote the site across social media. Here’s how you can help:
+📱 Post a TikTok showing off your favorite part of the site
+🎬 Upload a YouTube Short or Instagram Reel
+🐦 Share the link on X (Twitter), Reddit, or wherever you hang out
+
+🔗 Link to share: https://aether.st/
+
+Drop links to your posts in https://discord.com/channels/1353761264345546974/1571913228991332452 so we can all hype them up, like, and comment to boost the algorithm! Let’s make some noise! 🔥</description>
+      <pubDate>Mon, 16 Nov 2026 15:45:00 GMT</pubDate>
+      <category>announcement</category>
+    </item>
 
     <item>
       <guid>notification-009</guid>
